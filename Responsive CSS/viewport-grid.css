@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0px auto;
+  
+    
+}
+
+
+
+
+.header{
+    background-color: beige;
+    border: 1px solid tan;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+   
+
+
+}
+
+.left{
+    float: left;
+    width: 30%;
+    border: 1px solid tan;
+    text-align: justify;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+}
+.main{
+    float: right;
+    width: 70%;
+    border: 1px solid tan;
+    text-align: justify;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+}
